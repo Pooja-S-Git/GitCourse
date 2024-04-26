@@ -1,2 +1,1 @@
-# GitCourse
-Git Comments samples
+Hello World!
